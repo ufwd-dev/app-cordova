@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.lemonce.ufwd" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>西青云统战</name>
     <description>
         天津市西青区统战部自主研发的统战人士的联络应用。
@@ -18,6 +18,12 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
+        <icon density="ldpi" src="res/icon/android/icon-ldpi-36x36.png" />
+        <icon density="mdpi" src="res/icon/android/icon-mdpi-48x48.png" />
+        <icon density="hdpi" src="res/icon/android/icon-hdpi-72x72.png" />
+        <icon density="xhdpi" src="res/icon/android/icon-xhdpi-96x96.png" />
+        <icon density="xxhdpi" src="res/icon/android/icon-xxhdpi-144x144.png" />
+        <icon density="xxxhdpi" src="res/icon/android/icon-xxxhdpi-192x192.png" />
     </platform>
     <engine name="android" spec="^7.0.0" />
 </widget>
