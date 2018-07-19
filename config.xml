@@ -78,4 +78,5 @@
         <icon src="res/icon/ios/icon-83.5@2x.png" width="167" height="167" />
     </platform>
     <engine name="android" spec="^7.0.0" />
+    <plugin name="cordova-plugin-qrscanner" spec="^2.6.0" />
 </widget>
