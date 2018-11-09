@@ -60,4 +60,5 @@ typings/
 # Cordova
 /platforms
 /plugins
+/www.mi
 /www

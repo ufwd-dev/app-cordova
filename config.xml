@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.lemonce.ufwd" version="1.0.5" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.lemonce.ufwd" version="1.0.6" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>西青云统战</name>
     <description>
         天津市西青区统战部自主研发的统战人士的联络应用。
@@ -27,16 +27,12 @@
         <splash density="port-ldpi" src="res/screen/android/splash-port-ldpi.png" />
         <splash density="port-mdpi" src="res/screen/android/splash-port-mdpi.png" />
         <splash density="port-xhdpi" src="res/screen/android/splash-port-xhdpi.png" />
-        <!-- <icon density="ldpi" src="res/icon/android/icon-ldpi-36x36.png" />
+        <icon density="ldpi" src="res/icon/android/icon-ldpi-36x36.png" />
         <icon density="mdpi" src="res/icon/android/icon-mdpi-48x48.png" />
         <icon density="hdpi" src="res/icon/android/icon-hdpi-72x72.png" />
         <icon density="xhdpi" src="res/icon/android/icon-xhdpi-96x96.png" />
         <icon density="xxhdpi" src="res/icon/android/icon-xxhdpi-144x144.png" />
-        <icon density="xxxhdpi" src="res/icon/android/icon-xxxhdpi-192x192.png" /> -->
-        <icon density="hdpi" src="res/icon/android_vivo/192.png" />
-        <icon density="xhdpi" src="res/icon/android_vivo/256.png" />
-        <icon density="xxhdpi" src="res/icon/android_vivo/384.png" />
-        <icon density="xxxhdpi" src="res/icon/android_vivo/512.png" />
+        <icon density="xxxhdpi" src="res/icon/android/icon-xxxhdpi-192x192.png" />
     </platform>
     <platform name="ios">
         <splash height="480" src="res/screen/ios/Default~iphone.png" width="320" />
